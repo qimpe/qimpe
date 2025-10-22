@@ -3,13 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3E0&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+PostgreSQL;Payment+Systems+%26+FinTech" alt="Typing SVG" />
 </p>
 
-📊 GitHub активность
-<div align="center">
-https://github-readme-stats.vercel.app/api?username=qimpe&show_icons=true&theme=radical&hide_border=true
-https://github-readme-stats.vercel.app/api/top-langs/?username=qimpe&layout=compact&theme=radical&hide_border=true
-https://github-readme-streak-stats.herokuapp.com/?user=qimpe&theme=radical&hide_border=true
-</div>
-
 
 ## 💼 Проекты
   
