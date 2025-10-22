@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3E0&center=true&vCenter=true&width=435&lines=Python+Backend+Developer;Django+%7C+FastAPI+%7C+PostgreSQL;Payment+Systems+%26+FinTech" alt="Typing SVG" />
 </p>
 
-Python Backend Developer 👨🏻‍💻
+
 
 ## 💼 Проекты
   
